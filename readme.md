@@ -5,6 +5,8 @@
 [![Packagist Version](https://img.shields.io/packagist/v/mycools/filesystem-digitalocean-spaces.svg?style=flat-square)](https://packagist.org/packages/mycools/filesystem-digitalocean-spaces)
 [![Total Downloads](https://img.shields.io/packagist/dt/mycools/filesystem-digitalocean-spaces.svg?style=flat-square)](https://packagist.org/packages/mycools/filesystem-digitalocean-spaces)
 
+Project is forked from thephpleague/flysystem-aws-s3-v3
+
 This is a Flysystem adapter for the aws-sdk-php v3.
 
 # Installation
